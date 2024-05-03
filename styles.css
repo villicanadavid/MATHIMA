@@ -124,4 +124,9 @@ body {
         flex-basis: 45%;
         margin-bottom: 10px;
     }
+    .fixed-link {
+    position: fixed;
+    top: 50%;
+    left: 20px; /* Ajusta este valor para cambiar la posición horizontal */
+}
 }
